@@ -6,9 +6,9 @@ Aplikasi Kuis Interaktif Pilihan Ganda berbasis **Flutter** & **Dart**.
 
 ## 👤 Identitas Mahasiswa
 
-* **Nama**: Rrahmania
-* **NIM**: [Isi NIM Kamu di Sini]
-* **Lab**: [Isi Nama Lab Kamu di Sini]
+* **Nama**: Rahmania Utami
+* **NIM**: 241401034
+* **Lab**: Lab 1
 
 ---
 
@@ -34,24 +34,17 @@ Aplikasi Kuis Interaktif Pilihan Ganda berbasis **Flutter** & **Dart**.
 ## 🔗 Link Repository & Media
 
 * **Repository GitHub**: [https://github.com/Rrahmania/kuis_keren.git](https://github.com/Rrahmania/kuis_keren.git)
-* **Link Google Drive (Video Presentasi & Aset)**: [https://drive.google.com/drive/folders/1DHUvHgceAsQwqocPgDPnrxwmM8-J02Gx?usp=sharing](https://drive.google.com/drive/folders/1DHUvHgceAsQwqocPgDPnrxwmM8-J02Gx?usp=sharing)
-* **Link Mockup / Prototype Aplikasi**: [Isi Link Figma / Prototype di Sini]
+* **Link Google Drive (Video Presentasi & Aset)**: https://drive.google.com/file/d/1b6Whljir4uVeKJx363_unZXTZ4hW1voi/view?usp=sharing
+* **Link Mockup / Prototype Aplikasi**:
 
----
-
-## 📸 Dokumentasi Aplikasi
 
 ### Screenshots Tampilan Aplikasi
-
-| Home Screen (Beranda) | Mode Gelap (Dark Mode) |
-| :---: | :---: |
-| ![Beranda](docs/screenshots/home.png) | ![Mode Gelap](docs/screenshots/dark_mode.png) |
-
-| Quiz Screen (Soal & Pembahasan) | Result Screen (Hasil Kuis) | History Screen (Riwayat) |
-| :---: | :---: | :---: |
-| ![Quiz](docs/screenshots/quiz.png) | ![Hasil](docs/screenshots/result.png) | ![Riwayat](docs/screenshots/history.png) |
-
----
+Home -> https://drive.google.com/file/d/1meuT8kQOPCcym5LEV1zxoAiLjlIv0x2U/view?usp=drive_link
+Quis -> https://drive.google.com/file/d/16kTlkt0Hx_4XkaW94SfnsJSNHuOfj7EA/view?usp=drive_link
+History -> https://drive.google.com/file/d/1F1IkLwWlY3V6AReTRUGu_JlM4iZSgFK-/view?usp=drive_link
+Result -> https://drive.google.com/file/d/1jOBhpnOZgqynFOGPGrzlzC8y499gufEX/view?usp=drive_link
+Settings -> https://drive.google.com/file/d/1zkTq_RIYSdXOL6JK58Iwy5qlJnLrmBqB/view?usp=drive_link
+DarkMode -> https://drive.google.com/file/d/1TtO8N1NbFmjLUkts6ZXRuWNCHRvLBEhu/view?usp=drive_link
 
 ## 🎨 Credit & Sumber Aset
 
