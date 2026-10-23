@@ -18,10 +18,11 @@ class AnswerOption extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
+    final isDark = theme.brightness == Brightness.dark;
 
     return Material(
       color: selected
-          ? const Color(0xFFFFE082)
+          ? (isDark ? const Color(0xFF4A3B00) : const Color(0xFFFFE082))
           : theme.cardColor,
       borderRadius: BorderRadius.circular(16),
       child: InkWell(
@@ -34,7 +35,7 @@ class AnswerOption extends StatelessWidget {
             borderRadius: BorderRadius.circular(16),
             border: Border.all(
               color: selected
-                  ? const Color(0xFFE0A800)
+                  ? const Color(0xFFFFB800)
                   : theme.dividerColor,
               width: selected ? 2 : 1,
             ),
@@ -47,7 +48,7 @@ class AnswerOption extends StatelessWidget {
                 alignment: Alignment.center,
                 decoration: BoxDecoration(
                   color: selected
-                      ? const Color(0xFFE0A800)
+                      ? const Color(0xFFFFB800)
                       : theme.scaffoldBackgroundColor,
                   borderRadius: BorderRadius.circular(11),
                 ),
@@ -56,7 +57,7 @@ class AnswerOption extends StatelessWidget {
                   style: TextStyle(
                     fontWeight: FontWeight.bold,
                     color: selected
-                        ? Colors.white
+                        ? const Color(0xFF242424)
                         : theme.colorScheme.onSurface,
                   ),
                 ),
@@ -71,9 +72,9 @@ class AnswerOption extends StatelessWidget {
                 ),
               ),
               if (selected)
-                const Icon(
+                Icon(
                   Icons.check_circle,
-                  color: Color(0xFF8A6500),
+                  color: isDark ? const Color(0xFFFFB800) : const Color(0xFF8A6500),
                 ),
             ],
           ),

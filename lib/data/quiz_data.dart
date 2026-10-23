@@ -1,116 +1,73 @@
-
 import '../models/question.dart';
 
 const List<Question> quizQuestions = [
   Question(
-    category: 'Pemrograman',
-    question: 'Apa kepanjangan dari HTML?',
-    options: [
-      'HyperText Markup Language',
-      'HighText Machine Language',
-      'HyperTool Multi Language',
-      'HomeText Markup Language',
-    ],
-    correctAnswerIndex: 0,
-    explanation:
-    'HTML adalah bahasa markup yang digunakan untuk menyusun struktur halaman web.',
-  ),
-  Question(
-    category: 'Pemrograman',
-    question: 'Manakah bahasa yang digunakan Flutter?',
-    options: ['Java', 'Dart', 'PHP', 'Ruby'],
-    correctAnswerIndex: 1,
-    explanation:
-    'Flutter menggunakan Dart untuk membangun antarmuka dan logika aplikasi.',
-  ),
-  Question(
-    category: 'Pemrograman',
-    question: 'Apa fungsi utama sebuah variabel?',
-    options: [
-      'Menghapus program',
-      'Mempercepat internet',
-      'Menyimpan nilai atau data',
-      'Mengganti sistem operasi',
-    ],
-    correctAnswerIndex: 2,
-    explanation:
-    'Variabel merupakan tempat untuk menyimpan nilai yang dapat digunakan program.',
-  ),
-  Question(
-    category: 'Pemrograman',
-    question: 'Widget Flutter yang dapat menyimpan state adalah?',
-    options: [
-      'Text',
-      'Icon',
-      'StatelessWidget',
-      'StatefulWidget',
-    ],
-    correctAnswerIndex: 3,
-    explanation:
-    'StatefulWidget digunakan saat tampilan perlu berubah mengikuti state.',
-  ),
-  Question(
+    id: 'q1',
     category: 'Teknologi',
-    question: 'Apa kepanjangan CPU?',
+    question: 'Apa kepanjangan dari CPU?',
     options: [
       'Central Processing Unit',
-      'Computer Personal Utility',
-      'Central Program User',
-      'Control Power Unit',
+      'Computer Personal Unit',
+      'Central Program Utility',
+      'Control Processing User',
     ],
-    correctAnswerIndex: 0,
+    correctIndex: 0,
     explanation:
-    'CPU memproses instruksi dan menjalankan operasi utama komputer.',
+    'CPU adalah Central Processing Unit, yaitu komponen yang menjalankan instruksi dan memproses data.',
   ),
   Question(
+    id: 'q2',
     category: 'Teknologi',
-    question: 'Manakah yang termasuk perangkat input?',
-    options: ['Monitor', 'Keyboard', 'Speaker', 'Proyektor'],
-    correctAnswerIndex: 1,
-    explanation:
-    'Keyboard digunakan untuk memasukkan teks dan perintah ke komputer.',
-  ),
-  Question(
-    category: 'Teknologi',
-    question: 'Apa fungsi RAM?',
+    question: 'Bahasa pemrograman yang digunakan Flutter adalah?',
     options: [
-      'Mencetak dokumen',
-      'Menyimpan data selamanya',
-      'Menyimpan data sementara saat program berjalan',
-      'Menghubungkan kabel listrik',
+      'Java',
+      'Dart',
+      'Kotlin',
+      'Swift',
     ],
-    correctAnswerIndex: 2,
+    correctIndex: 1,
     explanation:
-    'RAM menyimpan data sementara yang sedang digunakan oleh sistem.',
+    'Flutter menggunakan Dart sebagai bahasa pemrograman utamanya.',
   ),
   Question(
+    id: 'q3',
     category: 'Pengetahuan Umum',
     question: 'Apa ibu kota Indonesia?',
-    options: ['Bandung', 'Medan', 'Surabaya', 'Jakarta'],
-    correctAnswerIndex: 3,
+    options: [
+      'Bandung',
+      'Surabaya',
+      'Jakarta',
+      'Medan',
+    ],
+    correctIndex: 2,
     explanation:
-    'Jakarta adalah jawaban yang digunakan dalam kumpulan soal dasar ini.',
+    'Jakarta merupakan jawaban yang digunakan pada kumpulan soal latihan ini.',
   ),
   Question(
-    category: 'Pengetahuan Umum',
+    id: 'q4',
+    category: 'Sains',
     question: 'Planet yang dikenal sebagai Planet Merah adalah?',
-    options: ['Mars', 'Venus', 'Jupiter', 'Merkurius'],
-    correctAnswerIndex: 0,
+    options: [
+      'Venus',
+      'Jupiter',
+      'Merkurius',
+      'Mars',
+    ],
+    correctIndex: 3,
     explanation:
-    'Mars terlihat kemerahan karena mineral besi teroksidasi di permukaannya.',
+    'Mars dikenal sebagai Planet Merah karena warna permukaannya yang kemerahan.',
   ),
   Question(
+    id: 'q5',
     category: 'Pengetahuan Umum',
-    question: 'Berapa hasil dari 12 x 5?',
-    options: ['50', '60', '55', '65'],
-    correctAnswerIndex: 1,
-    explanation: '12 dikalikan 5 sama dengan 60.',
+    question: 'Berapakah hasil dari 12 × 8?',
+    options: [
+      '86',
+      '96',
+      '108',
+      '92',
+    ],
+    correctIndex: 1,
+    explanation: '12 dikali 8 sama dengan 96.',
   ),
-];
-
-const List<String> quizCategories = [
-  'Semua Kategori',
-  'Pemrograman',
-  'Teknologi',
-  'Pengetahuan Umum',
 ];
