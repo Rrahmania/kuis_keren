@@ -39,12 +39,12 @@ Aplikasi Kuis Interaktif Pilihan Ganda berbasis **Flutter** & **Dart**.
 
 
 ### Screenshots Tampilan Aplikasi
-Home -> https://drive.google.com/file/d/1meuT8kQOPCcym5LEV1zxoAiLjlIv0x2U/view?usp=drive_link
-Quis -> https://drive.google.com/file/d/16kTlkt0Hx_4XkaW94SfnsJSNHuOfj7EA/view?usp=drive_link
-History -> https://drive.google.com/file/d/1F1IkLwWlY3V6AReTRUGu_JlM4iZSgFK-/view?usp=drive_link
-Result -> https://drive.google.com/file/d/1jOBhpnOZgqynFOGPGrzlzC8y499gufEX/view?usp=drive_link
-Settings -> https://drive.google.com/file/d/1zkTq_RIYSdXOL6JK58Iwy5qlJnLrmBqB/view?usp=drive_link
-DarkMode -> https://drive.google.com/file/d/1TtO8N1NbFmjLUkts6ZXRuWNCHRvLBEhu/view?usp=drive_link
+* Home -> https://drive.google.com/file/d/1meuT8kQOPCcym5LEV1zxoAiLjlIv0x2U/view?usp=drive_link
+* Quis -> https://drive.google.com/file/d/16kTlkt0Hx_4XkaW94SfnsJSNHuOfj7EA/view?usp=drive_link
+* History -> https://drive.google.com/file/d/1F1IkLwWlY3V6AReTRUGu_JlM4iZSgFK-/view?usp=drive_link
+* Result -> https://drive.google.com/file/d/1jOBhpnOZgqynFOGPGrzlzC8y499gufEX/view?usp=drive_link
+* Settings -> https://drive.google.com/file/d/1zkTq_RIYSdXOL6JK58Iwy5qlJnLrmBqB/view?usp=drive_link
+* DarkMode -> https://drive.google.com/file/d/1TtO8N1NbFmjLUkts6ZXRuWNCHRvLBEhu/view?usp=drive_link
 
 ## 🎨 Credit & Sumber Aset
 
