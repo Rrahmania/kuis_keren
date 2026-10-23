@@ -35,7 +35,7 @@ Aplikasi Kuis Interaktif Pilihan Ganda berbasis **Flutter** & **Dart**.
 
 * **Repository GitHub**: [https://github.com/Rrahmania/kuis_keren.git](https://github.com/Rrahmania/kuis_keren.git)
 * **Link Google Drive (Video Presentasi & Aset)**: https://drive.google.com/file/d/1b6Whljir4uVeKJx363_unZXTZ4hW1voi/view?usp=sharing
-* **Link Mockup / Prototype Aplikasi**:
+* **Link Mockup / Prototype Aplikasi**: https://www.figma.com/design/mcRlyYiTgeALQSqxEdlJAL/Untitled?node-id=0-1&t=vN1zVDM6Wbl3fKNb-1
 
 
 ### Screenshots Tampilan Aplikasi
